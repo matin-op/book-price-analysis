@@ -23,8 +23,6 @@ To analyze how book prices vary with ratings using data collected through web sc
 
 ## 📊 Key Insights
 
-## 📊 Key Insights
-
 - Books with higher ratings (4–5 stars) show slightly higher average prices, indicating a possible relationship between perceived quality and pricing  
 - Most books are concentrated in a mid-price range, suggesting consistent pricing strategies across the catalog  
 - The dataset is dominated by 3–4 star ratings, reflecting generally positive product quality  
