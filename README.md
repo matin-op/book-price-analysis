@@ -30,7 +30,14 @@ To analyze how book prices vary with ratings using data collected through web sc
 
 ## 📷 Visualizations
 
-(Add your chart screenshots here)
+### Price Distribution
+![Price Distribution](price_distribution.png)
+
+### Price vs Rating
+![Price vs Rating](price_vs_rating.png)
+
+### Rating Count
+![Rating Count](rating_count.png)
 
 ## 🚀 Conclusion
 
